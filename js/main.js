@@ -63,3 +63,7 @@ console.log("nombrebanco")
 
 let paises = document.getElementsByClassName ("producto")
 console.log("producto")
+
+caja.onclick = () => {
+    console. log("Hiciste click en la cajita");
+    }
